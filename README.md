@@ -1,3 +1,2 @@
-# LayoutGrid
-## Kotlin Gridlayout
-### Ready for implementation
+Kotlin Gridlayout
+Ready to use
